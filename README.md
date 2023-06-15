@@ -21,11 +21,7 @@ after creating a api key put it on "OPEN_AI_KEY" key on lib/app/common/headers.d
 
 #
 
-## Screenshots (Chat with AI)
 
-<img src="https://github.com/xihadulislam/chat_gpt_flutter/blob/master/ss/home.png" height="500em" /> &nbsp; &nbsp; 
-<img src="https://github.com/xihadulislam/chat_gpt_flutter/blob/master/ss/text.png" height="500em" /> &nbsp; &nbsp; 
-<img src="https://github.com/xihadulislam/chat_gpt_flutter/blob/master/ss/image.png" height="500em" />
 
 <br/>
 <br/>
